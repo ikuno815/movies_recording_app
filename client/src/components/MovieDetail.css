@@ -1,0 +1,10 @@
+.one-movie-card {
+    margin: 50px;
+    font-family: 'Raleway';
+    border-radius: 40px;
+    border: solid;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
